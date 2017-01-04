@@ -1,0 +1,30 @@
+#Internal package file, do not edit.
+#Wed Jan 04 15:55:45 SGT 2017
+2.base=C\:\\Users\\Rohin\\Downloads\\Provider\\app\\build\\intermediates\\assets\\debug
+5.file=C\:\\Users\\Rohin\\Downloads\\Provider\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\ic_launcher.png
+5.set=ANDROID_RESOURCE
+3.base=C\:\\Users\\Rohin\\Downloads\\Provider\\app\\build\\intermediates\\res\\resources-debug.ap_
+6.file=C\:\\Users\\Rohin\\Downloads\\Provider\\app\\build\\intermediates\\assets\\debug\\video\\H264_test7_voiceclip_mp4_480x360.mp4
+2.set=ASSET
+4.base=C\:\\Users\\Rohin\\Downloads\\Provider\\app\\build\\intermediates\\res\\resources-debug.ap_
+7.file=C\:\\Users\\Rohin\\Downloads\\Provider\\app\\build\\intermediates\\assets\\debug\\video\\20131020_141105.jpg
+7.set=ASSET
+count=9
+0.file=C\:\\Users\\Rohin\\Downloads\\Provider\\app\\build\\intermediates\\assets\\debug\\video\\H264_test3.mp4
+5.base=C\:\\Users\\Rohin\\Downloads\\Provider\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.file=C\:\\Users\\Rohin\\Downloads\\Provider\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+4.set=ANDROID_RESOURCE
+6.base=C\:\\Users\\Rohin\\Downloads\\Provider\\app\\build\\intermediates\\assets\\debug
+1.file=C\:\\Users\\Rohin\\Downloads\\Provider\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+1.set=ANDROID_RESOURCE
+7.base=C\:\\Users\\Rohin\\Downloads\\Provider\\app\\build\\intermediates\\assets\\debug
+2.file=C\:\\Users\\Rohin\\Downloads\\Provider\\app\\build\\intermediates\\assets\\debug\\video\\H264_test8_voiceclip_mp4_480x320.mp4
+6.set=ASSET
+0.base=C\:\\Users\\Rohin\\Downloads\\Provider\\app\\build\\intermediates\\assets\\debug
+8.base=C\:\\Users\\Rohin\\Downloads\\Provider\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=C\:\\Users\\Rohin\\Downloads\\Provider\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\main.xml
+3.set=ANDROID_RESOURCE
+1.base=C\:\\Users\\Rohin\\Downloads\\Provider\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=C\:\\Users\\Rohin\\Downloads\\Provider\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_main.xml
+8.set=ANDROID_RESOURCE
+0.set=ASSET
